@@ -19,4 +19,4 @@ Aceitamos contribuições! Siga estas orientações:
 - Atualize a documentação quando necessário
 
 ## Dúvidas?
-Contate-nos em [seu-email@exemplo.com]
+Contate-nos em [leonardo@lginfo.com.br]
